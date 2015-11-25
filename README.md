@@ -7,7 +7,7 @@ Perl script to get my ISP details,my external IP address,my ISP provider,my isp 
             http://rupinp.blogspot.in/2015/11/perl-to-get-isp-details-or-linux.html
             
             follow the steps
-   
+   This script runs in ununtu and debian based os only.
 
 https://cloud.githubusercontent.com/assets/15145334/11375846/97109b80-9303-11e5-8bf8-ef087eb86c97.png
 
